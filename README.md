@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Venom&text=Hi,I'm_Eunji👋&animation=fadeIn&stroke=b678c4&strokeWidth=2)
+
+
 ## Hi there 👋
 
 <!--
