@@ -7,8 +7,10 @@
   <!--C.#NT-->
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
   <!--Java-->
-  <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
   <br/>
 
   <!--React-->
@@ -33,28 +35,25 @@
   :+1: Once I've used :+1:
     <br/> <br/>
 
-<!--Java-->
+
 <img src="https://img.shields.io/badge/Kotlin-352A71?style=for-the-badge&logo=Kotlin&logoColor=7F52FF">
-<!--Java-->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-<!--Java-->
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-
-<!--Gradle-->
 <img src="https://img.shields.io/badge/Gradle-2303A?style=for-the-badge&logo=Gradle&logoColor=2303A">
-
-  <!--Postman-->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white">
 
-<img src="https://img.shields.io/badge/JUnit-D8F6CE?style=for-the-badge&logo=Junit5&logoColor=25A162">
-<img src="https://img.shields.io/badge/1?style=for-the-badge&logo=47A248&logoColor=25A162">
-<img src="https://img.shields.io/badge/2?style=for-the-badge&logo=47A248&logoColor=white">
-<img src="https://img.shields.io/badge/3?style=for-the-badge&logo=47A248&logoColor=white">
-<img src="https://img.shields.io/badge/4?style=for-the-badge&logo=47A248&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 </div>
 
